@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wizard()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WIZARD\r\n
+comment1.params=
+comment1.target=int\ damage()
+comment2.params=damage
+comment2.target=void\ takeDamage(int)
+numComments=3
